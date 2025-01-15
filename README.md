@@ -14,9 +14,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Security Information and Event Management (SIEM) system for log ingestion and analysis(Elastic).
+- Network analysis tool nmap,for capturing and examining network traffic.
 
 ## Steps
 - Set up a free Elastic account.
