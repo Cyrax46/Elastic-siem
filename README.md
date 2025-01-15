@@ -31,4 +31,4 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Step 1: Set up an Elastic Account
 - Step 2:Setting up the Linux VM
 - Step 3:Setting up the Agent to Collect Logs
-- 
+- https://github.com/Cyrax46/Elastic-siem/blob/bf0d4bb03c96887183a71d13e080085496dc528f/elastic%201.png
